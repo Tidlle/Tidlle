@@ -1,11 +1,11 @@
-<h2 align="center">Hey 👋 What's up? My name is Eduardo and I'm a student, from Brazil.</h2>
+e<h2 align="center">Hey 👋 What's up? My name is Eduardo and I'm a student, from Brazil.</h2>
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚I'm currently learning Adobe Creative Cloud focused on Illustrator and After Effects<br>📚Studying Technician at Fiap School<br>
-📚Studying Systems Analysis and Development at FIAP</p>
+<p align="center">✨ Creating bugs since 2022<br>📚I'm currently learning Adobe Creative Cloud focused on Illustrator and After Effects<br>📚Studying Technician at Fiap School<br>
+📚Studying Systems Analysis and Development at FIAP</p><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tidlle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
