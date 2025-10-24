@@ -4,7 +4,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚I'm currently learning Adobe Creative Cloud focused on Illustrator and After Effects<br>📚Studying Technician at Fiap School</p>
+<p align="left">✨ Creating bugs since 2022<br>📚I'm currently learning Adobe Creative Cloud focused on Illustrator and After Effects<br>📚Studying Technician at Fiap School<br>
+📚Studying Systems Analysis and Development at FIAP</p>
 
 ###
 
